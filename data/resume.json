@@ -1,127 +1,138 @@
 {
-    "avatar": "/resume/data/1.jpg",
-    "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
+    "avatar": "http://tp2.sinaimg.cn/2558456121/180/5694710128/1",
+    "background_image": "/resume/data/yosemite-3.jpg",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
-        "profession": "计算机科学与技术",
+        "name": "周晶（jockchou）",
+		"age": 27,
+        "description": "能力越大，责任越大",
+        "school": "湖南文理学院",
+        "profession": "网络工程",
         "sex": "男",
         "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "workage": "2011年毕业",
+        "phone": "18680372992",
+        "email": "164068300@qq.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/jockchou",
             "icon": ""
         },
         {
             "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
+            "link": "http://weibo.com/jockchou",
             "icon": ""
         },
         {
             "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
+            "link": "https://twitter.com/jockchou",
             "icon": ""
         },
         {
             "type": "home",
-            "link": "http://jayinton.com",
+            "link": "http://jockchou.com",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "五邑大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "工作岗位：Linux服务器，数据库，WEB开发相关工作"
         },
         {
-            "name": "第四届蓝桥杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
-        },
-        {
-            "name": "第六届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "2013百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "2013华南资讯杯广东省Java程序员竞赛三等奖"
+            "name": "期望薪资：25K/Month"
         }
     ],
     "socialExperiences": [
         {
-            "name": "加入袂卓移动开发工作室",
-            "name_link": "meizhuo.org",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "name": "Gitblog博客系统",
+            "name_link": "https://github.com/jockchou/gitblog",
+            "description": "Gitblog是一个简单，易用，高效的Markdown博客系统，不需要数据库，没有管理后台，一篇博客就是一个Markdown文件，目录有许多程序员在使用此博客系统。"
         },
-        {
-            "name": "组织3次校内开发者交流会",
-            "name_link": "http://wuyiuniversity.github.io/",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+		{
+            "name": "MongoDB集群搭建工具",
+            "name_link": "https://github.com/jockchou/mongodb-conf-generator",
+            "description": "MongoDB集群配置文件自动生成脚本，快速搭建MongoDB集群的脚本工具。"
+        },
+		{
+            "name": "jslibs",
+            "name_link": "https://github.com/jockchou/jslibs",
+            "description": "主要是从事WEB前端开发期间编写整理的一些JS库，如Ajax跨域，动画，自制控件库等。"
+        },
+		{
+            "name": "电子书《MongoDB入门指南》",
+            "name_link": "http://jockchou.gitbooks.io/getting-started-with-mongodb",
+            "description": "《MongoDB入门指南》是一个快速入门MongoDB的教程，目的只是为了让读者快速的入门MongoDB，快速理解和操作MongoDB。"
+        },
+		{
+            "name": "个人博客",
+            "name_link": "http://jockchou.com/",
+            "description": "个人博客记录了本人平时工作中解决的一些技术问题，经验的整理和对技术的一些思考"
         }
     ],
     "InternExperiences": [
         {
-            "name": "深圳三分线网络科技有限公司",
-            "name_link": "",
-            "title": "前端开发工程师",
+            "name": "【深圳市暖柚科技有限公司】",
+            "name_link": "http://www.impingo.me/homepage/index.html",
+            "title": "Linux服务器工程师",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
+            "description": "负责《叽叽》、《随遇》两款社交App的服务器技术架构和研发工作",
+            "time": "2014.05 - 至今",
             "location": "广东 深圳"
         },
         {
-            "name": "深圳百贝斯网络科技有限公司",
+            "name": "【深圳市迅雷网络技术有限公司】",
             "name_link": "",
-            "title": "PHP开发工程师",
+            "title": "WEB前端工程师，PHP开发工程师",
             "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
+            "description": "迅雷方舟项目的前端开发，迅雷手机助手，迅雷TV项目的PHP开发",
+            "time": "2012.02 - 2014.05",
+            "location": "广东 深圳"
+        },
+		{
+            "name": "【深圳泡椒思志信息技术有限公司】",
+            "name_link": "",
+            "title": "Java Web开发工程师",
+            "icon": "",
+            "description": "负责泡椒网，泡椒旗下相关移动，PC产品的服务器端开发和WEB前端开发",
+            "time": "2011.02 - 2012.02",
+            "location": "广东 深圳"
         }
     ],
     "ProjectExperience": [
         {
-            "name": "ETips",
-            "name_link": "http://etips.github.io/",
-            "title": "Android App, 作者",
-            "icon": "",
-            "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
-            "location": ""
-        },
-        {
-            "name": "东莞技能培训中心",
+            "name": "JavaScript编程",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "title": "js, css3, html5, web, nodejs",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
+            "description": "有丰富的WEB前端编程经验，做过迅雷方舟大型项目的前端开发，也做过很多移动App内嵌页面的前端开发",
+            "time": "",
             "location": ""
         },
         {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
+            "name": "PHP编程",
+            "name_link": "",
+            "title": "PHP接口开发，WEB开发，管理后台开发, 项目负责人",
             "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
+            "description": "熟练搭建Linux下PHP开发环境，codeigniter框架的使用，参与过迅雷手机助手，随遇等多款移动App的PHP后端开发",
+            "time": "",
             "location": ""
         },
         {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
-            "title": "",
+            "name": "MySQL数据",
+            "name_link": "http://www.mysql.com/",
+            "title": "MySQL, InnoDB",
             "icon": "",
-            "description": "",
+            "description": "熟悉使用MySQL数据库，并有大型社交平台MySQL技术架构经验，对InnoDB引擎的实现原理和性能优化有深入研究",
+            "time": "",
+            "location": ""
+        },
+        {
+            "name": "Linux服务器",
+            "name_link": "",
+            "title": "Linux, shell, 运维, 架构, 安全",
+            "icon": "",
+            "description": "熟练使用Linux操作系统，Shell编程，系统运维工作，以及常用的数据库系统MySQL和MongoDB，Redis，Sphinx，Memcache的使用",
             "time": "",
             "location": ""
         }
