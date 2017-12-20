@@ -8,9 +8,9 @@
         "school": "...",
         "profession": "软件工程",
         "sex": "男",
-        "education" : "本科",
+       // "education" : "本科",
         "workage": "2011年毕业",
-        "phone": "13520377840",
+        "phone": "135********",
         "email": "psyco.hou@gmail.com"
     },
     "social":[
